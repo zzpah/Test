@@ -1,0 +1,13 @@
+{
+  "name": "com.test.hellowork",
+  "version": "1.0.0",
+  "displayName": "PhoneGapFramework",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}
